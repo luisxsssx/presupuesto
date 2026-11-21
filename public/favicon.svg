@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="faviconTitle">
+  <title id="faviconTitle">Presupuestos del taller</title>
+  <rect width="64" height="64" rx="14" fill="#386641"/>
+  <path d="M15 9h21l13 13v29a5 5 0 0 1-5 5H15a5 5 0 0 1-5-5V14a5 5 0 0 1 5-5Z" fill="#FAFAF9"/>
+  <path d="M36 9l13 13H40a4 4 0 0 1-4-4V9Z" fill="#BFD3C1"/>
+  <rect x="21" y="28" width="22" height="4" rx="2" fill="#386641"/>
+  <rect x="21" y="37" width="22" height="4" rx="2" fill="#386641"/>
+  <rect x="21" y="46" width="13" height="4" rx="2" fill="#8FB597"/>
+</svg>
